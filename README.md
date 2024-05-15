@@ -25,7 +25,7 @@ Open directory
 cd Laravel11-CRUD
 ```
 
-Make Database, in this case i'm using MySql with DB name 'laravel11_crud'
+Make Database, in this case i'm using MySql with DB name `laravel11_crud`
 
 configure .env
 
