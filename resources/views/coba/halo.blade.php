@@ -1,0 +1,1 @@
+halo {{ $namaOrang }} dari blade
