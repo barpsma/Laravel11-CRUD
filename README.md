@@ -37,7 +37,7 @@ cp .env.example .env
 nano .env
 ```
 
-Edit line
+Edit the following line with your DB name
 
 ```
 DB_CONNECTION=sqlite
